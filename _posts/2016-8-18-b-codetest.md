@@ -4,7 +4,6 @@ title: Code Testing!
 ---
 
 ```
-{% highlight ruby %}
 Ruby
 # Ruby 입니다.
 =begin
@@ -57,5 +56,4 @@ start = Time.now
 p Problem86.find_ans
 p Time.now - start
 
-{% endhighlight %}
 ```
