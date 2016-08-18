@@ -13,7 +13,9 @@ title: Todo List
 # Issues #
 
 1. React Native 개발환경 구축 오류
+
 ```
+
 react-native run-ios 
 
 ** BUILD FAILED **
