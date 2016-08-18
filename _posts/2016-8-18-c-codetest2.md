@@ -3,7 +3,17 @@ layout: post
 title: whynot?
 ---
 
-{% highlight ruby %}
+```ruby
+# This is highlighted code
+def foo
+  puts 'foo'
+end
+```
+```python
+# Here is some in python
+def foo():
+  print 'foo'
+```
 
 # Ruby 입니다.
 =begin
