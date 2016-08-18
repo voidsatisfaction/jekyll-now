@@ -10,6 +10,11 @@ title: Todo List
 1. React Native Project
 2. 30 Days of RN
 
+# 자투리 #
+
+1. Project Euler
+2. Node School
+
 # Issues #
 
 1. React Native 개발환경 구축 오류
