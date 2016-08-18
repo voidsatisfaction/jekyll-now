@@ -2,7 +2,6 @@
 layout: post
 title: whynot?
 ---
-hhh
 
 {% highlight ruby %}
 def show
