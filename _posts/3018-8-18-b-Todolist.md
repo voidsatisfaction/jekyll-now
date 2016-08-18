@@ -35,7 +35,7 @@ Print: Entry, ":CFBundleIdentifier", Does Not Exist
 
 2. Local git 과 Git hub 연동 오류 
 
-** user.name / email 바꿔도 안 됨. **
+**user.name / email 바꿔도 안 됨.**
 
 ```
 remote: Permission to voidsatisfaction/practice.git denied to nersery.
