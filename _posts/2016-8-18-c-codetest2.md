@@ -3,6 +3,7 @@ layout: post
 title: whynot?
 ---
 
+```
 {% highlight ruby %}
 # Ruby 입니다.
 =begin
@@ -49,3 +50,5 @@ p Problem90.find_ans
 p Time.now - start
 
 <% endhighlight >
+
+```
