@@ -3,7 +3,6 @@ layout: post
 title: whynot?
 ---
 
-{% highlight ruby %}
 # Ruby 입니다.
 =begin
   ** Ruby의 내장메소드 combination을 사용하면 간단합니다.
@@ -47,4 +46,3 @@ end
 start = Time.now
 p Problem90.find_ans
 p Time.now - start
-{% endhighlight %}
