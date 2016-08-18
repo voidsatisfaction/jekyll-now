@@ -58,4 +58,3 @@ end
 start = Time.now
 p Problem90.find_ans
 p Time.now - start
-{% endhighlight %}
