@@ -4,10 +4,6 @@ title: code test
 ---
 
 {% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
 
 ```Ruby
 # Ruby 입니다.
@@ -62,3 +58,5 @@ p Problem86.find_ans
 p Time.now - start
 
 ```
+
+{% endhighlight %}
