@@ -2,7 +2,7 @@
 layout: post
 title: whynot?
 ---
-
+negative
 ```ruby
 # This is highlighted code
 def foo
