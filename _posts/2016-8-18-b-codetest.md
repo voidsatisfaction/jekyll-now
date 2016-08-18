@@ -3,6 +3,12 @@ layout: post
 title: code test
 ---
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
 ```Ruby
 # Ruby 입니다.
 =begin
