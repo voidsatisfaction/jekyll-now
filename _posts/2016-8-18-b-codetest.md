@@ -3,8 +3,7 @@ layout: post
 title: Code Testing!
 ---
 
-```
-Ruby
+```Ruby
 # Ruby 입니다.
 =begin
   구석에서 구석까지 가는 루트는 총 세가지 입니다.
