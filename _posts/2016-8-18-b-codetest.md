@@ -2,7 +2,7 @@
 layout: post
 title: code test
 ---
-
+work?
 {% highlight ruby %}
 
 ```Ruby
