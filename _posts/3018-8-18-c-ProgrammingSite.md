@@ -38,6 +38,8 @@ title: 프로그래밍 공부에 도움이 되는 사이트
 
 ### [Google codejam](https://code.google.com/codejam/)
 
+### [Top Coder](https://www.topcoder.com/)
+
 
 
 # 해킹 / 보안
@@ -53,6 +55,8 @@ title: 프로그래밍 공부에 도움이 되는 사이트
 
 
 ### [GitHub / Git](https://github.com/)
+
+### [Vim Adventure](http://vim-adventures.com/)
 
 
 
