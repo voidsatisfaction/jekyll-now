@@ -5,17 +5,28 @@ title: Todo List
 
 방학 전반기
 
-# 방학 전반기에 해야할 것들 #
+# List
+
+```
+[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+[Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
+[Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
+[Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
+
+```
+
+# Main
 
 1. React Native Project
 2. 30 Days of RN
 
-# 자투리 #
+# 자투리
 
 1. Project Euler
 2. Node School
 
-# Issues #
+# Issues
 
 1. React Native 개발환경 구축 오류
 
