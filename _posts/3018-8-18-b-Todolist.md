@@ -5,7 +5,7 @@ title: Todo List
 
 방학 전반기
 
-# List
+# Todo List
 
 [Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)
 
@@ -20,6 +20,12 @@ title: Todo List
 [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.kim/blog/2013/10/15/free-blog-with-github-jekyll/)
 
 지킬 매뉴얼 읽기
+
+# Always
+
+CNN Student News
+
+The Little Schemer
 
 
 # Main
