@@ -10,13 +10,13 @@ title: 프로그래밍 공부에 도움이 되는 사이트
 웹의 기초적인 부분을 배울 수 있는 사이트들 입니다.
 
 
-### 생활코딩 
+### [생활코딩](https://opentutorials.org/course/1)
 
-### Codelion 
+### [Codelion](http://codelion.net/)
 
-### 멋쟁이 사자처럼 
+### [멋쟁이 사자처럼](http://www.likelion.net/)
 
-### Codecademy 
+### [Codecademy](https://www.codecademy.com/) 
 
 ### [Css 레이아웃을 배웁시다](http://ko.learnlayout.com/)
 
@@ -25,53 +25,50 @@ title: 프로그래밍 공부에 도움이 되는 사이트
 # 웹 기본
 
 
-### Node School
+### [Node School](http://nodeschool.io/)
 
 
 
 # 알고리즘 
 
 
-### Euler Project(오일러 프로젝트) ###
+### [Euler Project(오일러 프로젝트 한글)](http://euler.synap.co.kr/)
 
-### Google codejam ###
+### [Euler Project(영문)](https://projecteuler.net/)
+
+### [Google codejam](https://code.google.com/codejam/)
 
 
 
 # 해킹 / 보안
 
 
-### 해커스쿨
+### [해커스쿨](http://www.hackerschool.org/Sub_Html/HS_Community/index.html)
 
-### webhacking.kr
+### [webhacking.kr](http://webhacking.kr/)
 
 
 
 # Tools
 
 
-### GitHub / Git
+### [GitHub / Git](https://github.com/)
 
-### 
 
 
 
 # 좋은 블로그 / 팟캐스트
 
 
-### 나는 프로그래머다 팟캐스트
+### [나는 프로그래머다](https://iamprogrammer.io/)
 
-### 나는 프로그래머다 사이트
-
-### More Agile 보다 나은 개발자가 되기 위하여
-
-### 
+### [More Agile 보다 나은 개발자가 되기 위하여](http://www.moreagile.net/)
 
 
 
 # 기타
 
 
-### Google Power Search
+### [Google Power Search](http://www.powersearchingwithgoogle.com/)
 
 
