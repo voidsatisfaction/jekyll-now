@@ -17,6 +17,10 @@ title: Todo List
 
 [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
 
+[지킬로 깃허브에 무료 블로그 만들기](https://nolboo.kim/blog/2013/10/15/free-blog-with-github-jekyll/)
+
+지킬 매뉴얼 읽기
+
 
 # Main
 
