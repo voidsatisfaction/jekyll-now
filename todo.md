@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Todo
-permalink: /Todo/
+permalink: /todo/
 ---
 
 
