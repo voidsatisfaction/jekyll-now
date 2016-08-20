@@ -9,7 +9,7 @@ permalink: /todo/
 
 # Todo List
 
-- [Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)
+- {[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)}
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -33,11 +33,13 @@ permalink: /todo/
 # Main
 
 - React Native Project
+
 - 30 Days of RN
 
 # 자투리
 
 - Project Euler
+
 - Node School
 
 # Issues
