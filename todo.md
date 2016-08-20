@@ -9,7 +9,7 @@ permalink: /todo/
 
 # Todo List
 
-- {[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)}
+- ~~[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)~~
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
