@@ -16,6 +16,7 @@ permalink: /todo/
 - [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 
 - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
+       - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
 
 - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
 
