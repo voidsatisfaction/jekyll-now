@@ -34,14 +34,14 @@ permalink: /todo/
 
 - The Little Schemer
 
-- Node JS 생활코딩
-
 
 # Main
 
 - React Native Project
 
 - 30 Days of RN
+
+- Node JS 생활코딩
 
 # 자투리
 
