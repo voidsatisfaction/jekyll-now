@@ -45,7 +45,7 @@ permalink: /todo/
 
 # Issues
 
-### React Native 개발환경 구축 오류
+### ~~React Native 개발환경 구축 오류~~
 
 ```
 
@@ -66,7 +66,8 @@ Print: Entry, ":CFBundleIdentifier", Does Not Exist
 
 ```
 ---
-### Local git 과 Git hub 연동 오류 
+
+### ~~Local git 과 Git hub 연동 오류~~
 
 **user.name / email 바꿔도 안 됨.**
 
@@ -75,6 +76,7 @@ remote: Permission to voidsatisfaction/practice.git denied to nersery.
 fatal: unable to access 'https://github.com/voidsatisfaction/practice/': The requested URL returned error: 403
 ```
 ---
+
 ### Jekyll github blog 와 github post 의 내용이 다른 오류
 
 **Syntax가 분명 같을 텐데 왜 다른 결과가 나오는 걸까? 프레임워크가 잘못 된 것인가?**
