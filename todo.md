@@ -9,20 +9,24 @@ permalink: /todo/
 
 # Todo List
 
-- ~~[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)~~
+- React Native
+  - ~~[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)~~
 
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  - [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 
-- [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
-
-- [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
+  - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
        - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
 
-- [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
+- GitHub Blog
 
-- [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.kim/blog/2013/10/15/free-blog-with-github-jekyll/)
+  - [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.kim/blog/2013/10/15/free-blog-with-github-jekyll/)
 
-- 지킬 매뉴얼 읽기
+  - 지킬 매뉴얼 읽기
+  
+  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+ 
+- ETC
+  - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
 
 # Always
 
