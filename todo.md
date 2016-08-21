@@ -34,6 +34,8 @@ permalink: /todo/
 
 - The Little Schemer
 
+- Node JS 생활코딩
+
 
 # Main
 
