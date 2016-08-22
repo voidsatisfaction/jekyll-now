@@ -10,30 +10,38 @@ title: Nodejs 공부기 1
 
 ### Basics
   - Nodejs?
+  
   - Client and Server
+  
   - NPM
     - `npm init` => package.json 파일 작성
     - `npm install underscore (--save)` => node_modules폴더에 underscore추가, --save는 package.json에 dependencies추가
     - Example : Uglify, Express, Underscore
+  
   - Callback Function
     - 코드상에서 직접 호출되는 것이 아니고, 누군가가 호출하는 함수. **(정의가 완벽하지 못한 것 같다.)**
     - 주로 lambda를 이용해서 구현.
     - 함수도 데이터이기 때문에 함수가 함수를 인자로 받을 수 있는 것을 이용.
+    
   - Sync, Async
     - 빨래/설거지/청소, 100만명에게 이메일 보내기
+    
   - Relationship
     - JS and Nodejs
     - Module and NPM
     - Structure of App.js
   
 ### Express API
+
   - Static, Dynamic
     - Static : html, image, ... => 실시간 동기화, 편집이 쉬움 => `./public/htmlfile or img`
     - Dynamic : js code in controller(call back) => 편집은 어려우나 동적으로 제어가능 => app.js
+    
   - Template Engine(Jade)
     - `app.set('view engine', 'jade')`
     - `app.set('views', './views')`
     - Jade만의 형식이 따로 있음
+    
   - Query String
     - URL을 이용한 정보의 전달
     - `http://a.com/topic?id=1`
