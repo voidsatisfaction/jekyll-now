@@ -19,6 +19,12 @@ permalink: /todo/
   - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
        - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
 
+- Nodejs
+  - Nodejs 메뉴얼 훑기
+  
+  - Express 메뉴얼 훑기
+      
+
 - GitHub Blog
 
   - [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.kim/blog/2013/10/15/free-blog-with-github-jekyll/)
