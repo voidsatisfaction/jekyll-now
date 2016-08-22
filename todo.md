@@ -13,6 +13,8 @@ permalink: /todo/
   - ~~[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)~~
 
   - [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
+  
+  - [Flux Guide](https://facebook.github.io/flux/docs/overview.html)
 
   - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
        - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
