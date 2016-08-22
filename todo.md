@@ -25,7 +25,7 @@ permalink: /todo/
 
   - 지킬 매뉴얼 읽기
   
-  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  - ~~[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)~~
  
 - ETC
   - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
