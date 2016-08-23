@@ -13,7 +13,7 @@ The Little Schemer
 
   - 함수의 return값으로 함수를 건네줄 수 있다.
   
-  - 그 건네진 함수를 lamda함수라고 한다.
+  - 그 함수는 lambda함수를 이용해서 건네줄 수 있다.
 
 - Collecter
 
