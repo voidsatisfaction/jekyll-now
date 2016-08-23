@@ -9,9 +9,13 @@ The Little Schemer
 
 ## 배운 내용들
 
-## Real code
+- Collecter
 
-**Collecter : 함수가 여러 값을 나타낼 수 있도록 도와준다. 값의 Collect**
+  - 함수가 여러 값을 나타낼 수 있도록 도와준다. 값의 Collect
+  
+  - 아직 완벽하지 이해하지는 못했으나 정말 아름다워 보인다.
+
+## Real code
 
 ### 예제1
 ```scheme
