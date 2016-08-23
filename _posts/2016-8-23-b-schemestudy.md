@@ -9,6 +9,12 @@ The Little Schemer
 
 ## 배운 내용들
 
+- lambda
+
+  - 함수의 return값으로 함수를 건네줄 수 있다.
+  
+  - 그 건네진 함수를 lamda함수라고 한다.
+
 - Collecter
 
   - 함수가 여러 값을 나타낼 수 있도록 도와준다. 값의 Collect
