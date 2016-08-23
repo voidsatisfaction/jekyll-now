@@ -17,11 +17,16 @@ The Little Schemer
 (define (multiinsertLR new oldL oldR lat)
   (cond ((null? lat) '())
         ((eq? oldL (car lat))
-         (cons new (cons oldL (multiinsertLR new oldL oldR (cdr lat)))))
+         (cons new 
+          (cons oldL 
+            (multiinsertLR new oldL oldR (cdr lat)))))
         ((eq? oldR (car lat))
-         (cons oldR (cons new (multiinsertLR new oldL oldR (cdr lat)))))
+         (cons oldR 
+          (cons new 
+            (multiinsertLR new oldL oldR (cdr lat)))))
         (else
-         (cons (car lat) (multiinsertLR new oldL oldR (cdr lat))))))
+         (cons (car lat) 
+          (multiinsertLR new oldL oldR (cdr lat))))))
 
 (define (multiinsertLR&co new oldL oldR lat col)
   (cond ((null? lat)
@@ -30,12 +35,14 @@ The Little Schemer
          (multiinsertLR&co new oldL oldR
                            (cdr lat)
                            (lambda (newlat L R)
-                             (col (cons new (cons oldL newlat)) (+ L 1) R))))
+                             (col (cons new 
+                                (cons oldL newlat)) (+ L 1) R))))
         ((eq? oldR (car lat))
          (multiinsertLR&co new oldL oldR
                            (cdr lat)
                            (lambda (newlat L R)
-                             (col (cons oldR (cons new newlat)) L (+ R 1)))))
+                             (col (cons oldR 
+                                (cons new newlat)) L (+ R 1)))))
         (else
          (multiinsertLR&co new oldL oldR
                            (cdr lat)
