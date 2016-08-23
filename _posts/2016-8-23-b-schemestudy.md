@@ -11,6 +11,9 @@ The Little Schemer
 
 ## Real code
 
+**Collecter : 함수가 여러 값을 나타낼 수 있도록 도와준다. 값의 Collect**
+
+### 예제1
 ```scheme
 #| Remeber more than two value at a time |#
 
@@ -52,3 +55,45 @@ The Little Schemer
 (multiinsertLR&co 'salty 'fish 'chips '(chips and fish or fish and chips) (lambda (lat a b) (cons a (cons b lat))))
 ```
 
+### 예제2 (p.s 정말 아름다운 코드다)
+
+```scheme
+(define (atom? s)
+  (and (not (pair? s)) (not (null? s))))
+
+(define (evens-only* l)
+  (cond ((null? l) '())
+        ((and (atom? (car l)) (even? (car l)))
+         (cons (car l) (evens-only* (cdr l))))
+        ((atom? (car l))
+         (evens-only* (cdr l)))
+        (else
+         (cons (evens-only* (car l)) (evens-only* (cdr l))))))
+
+(define (evens-only*&co l col)
+  (cond ((null? l)
+         (col '() 1 0))
+        ((and (atom? (car l)) (even? (car l)))
+         (evens-only*&co (cdr l)
+                         (lambda (newl mul sum)
+                           (col (cons (car l) newl)
+                                (* (car l) mul)
+                                sum))))
+        ((atom? (car l))
+         (evens-only*&co (cdr l)
+                         (lambda (newl mul sum)
+                           (col newl mul
+                                (+ (car l) sum)))))
+        (else
+         (evens-only*&co (car l)
+                         (lambda (al ap as)
+                           (evens-only*&co (cdr l)
+                                           (lambda (dl dp ds)
+                                             (col (cons al dl)
+                                                  (* ap dp)
+                                                  (+ as ds)))))))))
+
+(evens-only*&co '((9 1 2 8) 3 10 ((9 9) 7 6) 2)
+             (lambda (l mul sum)
+               (cons sum (cons mul l))))
+```
