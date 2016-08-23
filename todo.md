@@ -18,6 +18,9 @@ permalink: /todo/
 
   - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
        - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
+  
+  - [Redux공식 튜토리얼](http://redux.js.org/index.html)
+      - 백문이 불여일견!
 
 - Nodejs
   - Nodejs 메뉴얼 훑기
