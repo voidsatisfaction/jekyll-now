@@ -27,7 +27,8 @@ permalink: /todo/
   
   - Express 메뉴얼 훑기
       
-
+  - [여기 있는 질문들...](https://github.com/voidsatisfaction/voidsatisfaction.github.io/blob/master/_posts/2016-8-23-a-nodestudy.md)
+  
 - GitHub Blog
 
   - [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.kim/blog/2013/10/15/free-blog-with-github-jekyll/)
