@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 노드 공부기 2
+title: Nodejs 공부기 2
 ---
 
 ## 선생님
