@@ -155,3 +155,33 @@ col(전해줄 col) => (lambda (newlat L R) (col(가장 처음의 col) (cons 'hel
              (lambda (l mul sum)
                (cons sum (cons mul l))))
 ```
+
+#### 해설
+**머리로는 이해했으나 가슴으로는 이해하지 못했다.**
+
+결국, else이후의 구문이 문제가 되는 것인데
+여기서 포인트는 아래와 같다.
+
+**무엇이 먼저 실행되는가?**
+
+```
+(else
+ (evens-only*&co (car l)
+                 (lambda (al ap as)
+                   (evens-only*&co (cdr l)
+                                   (lambda (dl dp ds)
+                                     (col (cons al dl)
+                                          (* ap dp)
+                                          (+ as ds)))))))))
+```
+
+만약 우리가 위의 원래의 함수를 어떤 리스트를 넣어서 실행했다고
+생각한다면 else이후의 내용이 실행되었을때 어떤것들이 어떤순서로 실행될까?
+
+**답은 뒤에위치한 앞에있는 evens-only*&co의 부분이 먼저 실행된다는 것이다**
+
+그렇다는 얘기는 만일 l이 '((hi nice to meet you) my name is amy) 인 경우에
+(car l)인 리스트가 evens-only*&co의 함수에 input되는 것이 아니라
+뒷부분의 my 이후의 (cdr l)부분이 먼저 col에 저장된다.
+
+그리고 atom들의 collect가 끝나서야 (hi nice to meet you)부분이 collect되어 합쳐진다.
