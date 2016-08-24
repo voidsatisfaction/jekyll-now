@@ -41,6 +41,8 @@ permalink: /todo/
   - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
   
   - [tower-of-babel (ECMA 6)](https://github.com/yosuke-furukawa/tower-of-babel)
+  
+  - ~~[[번역] 당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)~~
 
 # Always
 
