@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nodejs 공부기3 : Web Application만들기
+title: Nodejs 공부기3 ~ Web Application만들기
 ---
 
 ## 선생님
