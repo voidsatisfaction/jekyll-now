@@ -20,7 +20,7 @@ permalink: /todo/
        - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
   
   - [Redux공식 튜토리얼](http://redux.js.org/index.html)
-      - 백문이 불여일견!
+      - 백견이 불여일do!
 
 - Nodejs
   - Nodejs 메뉴얼 훑기
@@ -39,6 +39,8 @@ permalink: /todo/
  
 - ETC
   - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
+  
+  - [tower-of-babel (ECMA 6)](https://github.com/yosuke-furukawa/tower-of-babel)
 
 # Always
 
