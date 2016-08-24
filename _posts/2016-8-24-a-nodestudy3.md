@@ -20,7 +20,7 @@ title: Nodejs 공부기3 ~ Web Application만들기
 여기서 기획이라 함은 어떠한 객체가 어떻게 작용하는지, 어떤 흐름으로 작동하는지를
 명확히 한 것을 의미한다.
 
-백날 디버깅하는 것 보다 한 번 기획을 잘하는 것이 효율적이다.
+**백날 디버깅하는 것 보다 한 번 기획을 잘하는 것이 효율적이다.**
 
 
 ## Real code
@@ -35,7 +35,7 @@ const server = Oriento({
   host: 'localhost',
   port: 2424,
   username: 'root',
-  password: '123' // You should save password on config file for proper security
+  password: '***' // You should save password on config file for proper security
 });
 var db = server.use('o2')
 console.log('Using database: ' + db.name)
