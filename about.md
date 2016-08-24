@@ -4,14 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is who I am
 
-### More Information
+## Profile
 
-A place to include any other types of information that you'd like to include about yourself.
+- Place : Kyoto Japan
 
-### Contact me
+- Soulmates : Ruby, Scheme, JavaScript
 
-[email@domain.com](mailto:email@domain.com)
+- Hobby : Recursive Function
 
-just test
+## Phylosophy
+
+- Be Considerate
+
+- Give It Five Minutes
+
+- More Thinking Than Action
+
+## Contact me
+
+**There are my fb account and github address below this page.**
+
