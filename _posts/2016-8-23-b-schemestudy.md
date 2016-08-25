@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scheme의 아름다움 1
+title: Scheme의 아름다움 ~ Continuation
 ---
 
 ## 선생님
