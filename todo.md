@@ -17,11 +17,22 @@ permalink: /todo/
   - [Flux Guide](https://facebook.github.io/flux/docs/overview.html)
 
   - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
+  
        - 일단 한 번 읽었는데 뭔 소린지 하나도 모르겠다. 나중에 다시 읽자
   
   - [Redux공식 튜토리얼](http://redux.js.org/index.html)
+  
       - 백견이 불여일do!
+      
+  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.a2jtlfw4p)
+  
+  - [Smart and Dumb Components in React](http://jaketrent.com/post/smart-dumb-components-react)
+  
+  - [container vs component?](https://github.com/reactjs/redux/issues/756)
 
+  - [React.js LifeCycle강좌](https://velopert.com/1130)
+  
+  - [React공식 홈페이지 컴포넌트 생명주기](https://facebook.github.io/react/docs/component-specs-ko-KR.html)
 - Nodejs
   - Nodejs 메뉴얼 훑기
   
@@ -45,6 +56,8 @@ permalink: /todo/
   - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
   
   - [tower-of-babel (ECMA 6)](https://github.com/yosuke-furukawa/tower-of-babel)
+  
+  - [ECMA Script6 Features](https://github.com/lukehoban/es6features#readme)
   
   - ~~[[번역] 당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)~~
 
