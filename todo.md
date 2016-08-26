@@ -63,6 +63,8 @@ permalink: /todo/
 
 - Node JS 생활코딩
 
+- **번역 자료 읽기**
+
 # 자투리
 
 - Project Euler
