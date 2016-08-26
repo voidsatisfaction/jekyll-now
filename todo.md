@@ -9,6 +9,13 @@ permalink: /todo/
 
 # Todo List
 
+- JavaScript(Core)
+  - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
+  
+  - [tower-of-babel (ECMA 6)](https://github.com/yosuke-furukawa/tower-of-babel)
+  
+  - [ECMA Script6 Features](https://github.com/lukehoban/es6features#readme)
+
 - React Native
   - ~~[Learn React Native in 8 minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.o8uks1h7c)~~
 
@@ -53,12 +60,14 @@ permalink: /todo/
   - [컴퓨팅 기술의 원형 탐험 시리즈](https://www.ibm.com/search/csass/search/?q=%EC%BB%B4%ED%93%A8%ED%8C%85+%EA%B8%B0%EC%88%A0%EC%9D%98+%EC%9B%90%ED%98%95+%ED%83%90%ED%97%98&sn=dw&lang=en&cc=US&en=utf&hpp=20&dws=dw)
  
 - ETC
-  - [Airbnb Javascript style guide](https://github.com/airbnb/javascript#table-of-contents)
+  - [How computers are learning to be creative | Blaise Agüera y Arcas](https://www.youtube.com/watch?v=uSUOdu_5MPc)
   
-  - [tower-of-babel (ECMA 6)](https://github.com/yosuke-furukawa/tower-of-babel)
+  - [The surprising science of happiness](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy)
   
-  - [ECMA Script6 Features](https://github.com/lukehoban/es6features#readme)
-  
+  - [Understanding Scope in Ruby](https://www.sitepoint.com/understanding-scope-in-ruby/)
+
+  - [ImmutableJS](https://facebook.github.io/immutable-js/)
+
   - ~~[[번역] 당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)~~
 
 # Always
