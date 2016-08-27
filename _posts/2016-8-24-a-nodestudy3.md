@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Nodejs 공부기3 ~ Web Application만들기
 ---
 
