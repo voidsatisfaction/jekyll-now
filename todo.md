@@ -60,6 +60,9 @@ permalink: /todo/
   - [컴퓨팅 기술의 원형 탐험 시리즈](https://www.ibm.com/search/csass/search/?q=%EC%BB%B4%ED%93%A8%ED%8C%85+%EA%B8%B0%EC%88%A0%EC%9D%98+%EC%9B%90%ED%98%95+%ED%83%90%ED%97%98&sn=dw&lang=en&cc=US&en=utf&hpp=20&dws=dw)
  
 - ETC
+  - ~~[Atomic Design](http://www.slideshare.net/bradfrostweb/atomic-design/53-TEMPLATE_GUTScode_blockphp_incorganismheader_div)~~
+    - Very nice analogy between the web programming and the real world
+
   - [How computers are learning to be creative : Blaise Agüera y Arcas](https://www.youtube.com/watch?v=uSUOdu_5MPc)
   
   - [The surprising science of happiness](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy)
