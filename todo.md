@@ -62,6 +62,8 @@ permalink: /todo/
 - ETC
   - ~~[Atomic Design / ](http://bradfrost.com/blog/post/atomic-web-design/) [Atomic Design Slide](http://www.slideshare.net/bradfrostweb/atomic-design/53-TEMPLATE_GUTScode_blockphp_incorganismheader_div)~~
     - Very nice analogy between the web programming and the real world
+  
+  - ~~[Eslint Getting Started](http://devnull.guru/get-started-with-eslint/)~~
 
   - [How computers are learning to be creative : Blaise Agüera y Arcas](https://www.youtube.com/watch?v=uSUOdu_5MPc)
   
