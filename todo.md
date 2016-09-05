@@ -31,15 +31,16 @@ permalink: /todo/
   
       - 백견이 불여일do!
       
-  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.a2jtlfw4p)
+  - ~~[Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.a2jtlfw4p)~~
   
-  - [Smart and Dumb Components in React](http://jaketrent.com/post/smart-dumb-components-react)
+  - ~~[Smart and Dumb Components in React](http://jaketrent.com/post/smart-dumb-components-react)~~
   
-  - [container vs component?](https://github.com/reactjs/redux/issues/756)
+  - ~~[container vs component?](https://github.com/reactjs/redux/issues/756)~~
 
   - [React.js LifeCycle강좌](https://velopert.com/1130)
   
   - [React공식 홈페이지 컴포넌트 생명주기](https://facebook.github.io/react/docs/component-specs-ko-KR.html)
+
 - Nodejs
   - Nodejs 메뉴얼 훑기
   
