@@ -20,7 +20,9 @@ title: 오늘 또 느낀것들..
 그리고 그 과정은
 
 1. Screen을 복사
+
 2. 분해
+
 3. 합성
 
 이렇게 처리하였다.
@@ -36,8 +38,11 @@ title: 오늘 또 느낀것들..
 원래 내가 작업하고있던 파일들은 local환경에서 새로운 branch를 만들어서 작업중이었다.
 
 1. 나는 그것을 **한차례 수정이된** remote환경의 master의 내용을 내 local환경의 master branch에 적용한 뒤
+
 2. 다시 그 내용을 local의 새 브랜치에 merge하고
+
 3. 그 내용을 다시 remote에 push해서
+
 4. pull request에 관한 내용을 작성
 
 해야만했는데, 2에서 merge하는 과정에 내가 무엇인가를 잘못헀는지 엄청나게 많은 오류가 뜨면서 많은 파일들이 수정되어버렸다.
@@ -45,8 +50,11 @@ title: 오늘 또 느낀것들..
 아차차 싶어서 사부에게 결과를 말한 뒤, 사부의 제안에 따라서 SourceTree라는 프로그램을 다운로드 받아서 다시 commit직후의 상태로 되돌릴 수 있었다.
 
 그러나
+
 - npm install이후 npm test에서 eslint에 관한 수많은 error들
+
 - pull request를 작성한 것들에 대한 사부의 신랄한 코멘트
+
 - "앞으로는 그냥 commandline git대신 SourceTree로 하세요."
 
 를 보면서 약간 자존심에 금이갔다.
