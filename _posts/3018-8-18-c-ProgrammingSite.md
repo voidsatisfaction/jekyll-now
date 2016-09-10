@@ -58,6 +58,8 @@ title: 프로그래밍 공부에 도움이 되는 사이트
 
 ### [Git간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 
+### [Git 쉽게 따라 배우기](http://learngitbranching.js.org/)
+
 ### [Vim Adventure](http://vim-adventures.com/)
 
 
